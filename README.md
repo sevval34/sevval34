@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevval Baskan</h1>
-<h3 align="center">A Computer Engineering Student from Istanbul</h3>
+<h3 align="center">A Computer Engineer from Istanbul</h3>
 
 - 📫 How to reach me **sevvalbaskann61@gmail.com**
 
